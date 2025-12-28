@@ -34,11 +34,11 @@ automated-personal-finance-analysis/
 
 ## Screenshots
 
-### Spending by Category
-![Spending by Category](screenshots/spending_by_category.png)
+### income_vs_expense
+screenshots/income_vs_expense_2025-12.png
 
 ### Expense Breakdown
-![Expense Breakdown](screenshots/expense_breakdown.png)
+screenshots/expense_breakdown_2025-12.png
 
 ## Notes
 - Real bank data is not included
