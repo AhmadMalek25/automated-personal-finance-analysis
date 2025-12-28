@@ -31,17 +31,17 @@ automated-personal-finance-analysis/
 ├── requirements.txt
 └── screenshots/
 
-
 ## Screenshots
 
-### screenshots/income_vs_expense_2025-12.png
-screenshots/income_vs_expense_2025-12.png
+### Income vs Expense
+![Income vs Expense](screenshots/income_vs_expense_2025-12.png)
 
-### screenshots/expense_breakdown_2025-12.png
-screenshots/expense_breakdown_2025-12.png
+### Expense Breakdown
+![Expense Breakdown](screenshots/expense_breakdown_2025-12.png)
 
 ## Notes
 - Real bank data is not included
-- Income values are excluded intentionally
+- Monetary values are intentionally masked
 - Email automation is planned as a future enhancement
+
 
