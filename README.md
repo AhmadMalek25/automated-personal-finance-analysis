@@ -34,10 +34,10 @@ automated-personal-finance-analysis/
 
 ## Screenshots
 
-### income_vs_expense
+### screenshots/income_vs_expense_2025-12.png
 screenshots/income_vs_expense_2025-12.png
 
-### Expense Breakdown
+### screenshots/expense_breakdown_2025-12.png
 screenshots/expense_breakdown_2025-12.png
 
 ## Notes
