@@ -50,7 +50,8 @@ The goal is not to build another finance app, but to learn how to design **autom
 
 ## Project Structure
 automated-personal-finance-analysis/
-├── finance_analysis.ipynb # Main analysis and automation notebook
+├── ├── notebooks/
+│   └── finance_analysis.ipynb  # Main analysis and automation notebook
 ├── README.md
 ├── requirements.txt
 └── screenshots/ # Generated visual outputs
