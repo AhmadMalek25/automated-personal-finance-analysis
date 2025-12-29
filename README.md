@@ -60,7 +60,7 @@ automated-personal-finance-analysis/
 
 ## Example Outputs
 
-### Income vs Outcome (Monthly)
+### Income vs Expense (Monthly)
 High-level comparison between income and expenses for a given month.
 
 ![Income vs Expense](screenshots/income_vs_expense_2025-12.png)
