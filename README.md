@@ -55,7 +55,8 @@ automated-personal-finance-analysis/
 │   └── finance_analysis.ipynb  # Main analysis and automation notebook
 ├── README.md
 ├── requirements.txt
-└── screenshots/ # Generated visual outputs```
+└── screenshots/ # Generated visual outputs
+```
 
 ---
 
